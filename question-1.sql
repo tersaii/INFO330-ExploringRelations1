@@ -1,0 +1,1 @@
+SELECT first_name, city FROM persons WHERE city = 'Omaha';
